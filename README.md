@@ -12,7 +12,7 @@
 [Rozebud](https://github.com/ThatRozebudDude) - GF Sprite in main menu and bopeebo-bside in mod tests
 
 
-[skullbite]([https://github.com/skullbite) - README.md base
+[skullbite](https://github.com/skullbite) - README.md base
 
 
 [Core5570RYT](https://github.com/Core5570RYT) - no eye strain menus
