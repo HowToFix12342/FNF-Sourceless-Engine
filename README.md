@@ -6,8 +6,7 @@
 # Features
 - Mod Examples
 - Easy Modding!
-- Based of Week 7 Newgrounds Exclusive
-- Support for Videos.
+- Based of Week 7 Newgrounds Exclusive (currently)
 # Credits
 [Rozebud](https://github.com/ThatRozebudDude) - GF Sprite in main menu and bopeebo-bside in mod tests
 
