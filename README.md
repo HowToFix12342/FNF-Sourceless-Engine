@@ -20,4 +20,8 @@
 [Funkin' Crew](https://github.com/FunkinCrew) - Made the tiny beep bop man we know and love
 
 
+# Updates
+-  Website is outdated :\
+
+
 
